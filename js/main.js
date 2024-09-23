@@ -1,5 +1,5 @@
 
-// set time out section
+// navbar section
 
 window.addEventListener("scroll" , colorChange)
 
