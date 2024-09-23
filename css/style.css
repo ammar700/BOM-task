@@ -1,0 +1,16 @@
+body{
+    height: 4500px;
+}
+.navbar{
+    position: fixed;
+    width: 100%;
+    top: 0;
+}
+
+.navcolorR{
+    background-color: red !important ;
+    transition: all .5s linear ;
+}
+.bg-primary{
+    transition: all .5s linear ;
+}
